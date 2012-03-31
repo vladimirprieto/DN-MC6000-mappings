@@ -1,0 +1,25 @@
+Spanish
+-------
+
+mapeo personal para el control midi Denon DN-MC600 para ser usado en Traktor Pro 2, basado en un sacado de www.traktorbible.com
+
+Generales
+
+- controla 4 canales
+- los efectos deben estar en Single (ver configuración de Traktor)
+- controla sólo 2 cámaras de efectos FX1 y FX2
+- monitoreo automático cuando se carga un tema en un Deck
+
+Detalle
+(en progreso, sólo las no evidentes)
+
+- SHIFT + AutoLoop, Activa/Desactiva Loop
+- SHIFT + Loop In, actua como CUP
+- botón Browse, activa Browse Layout
+- botón EFX, activa/desactiva ciertas funciones (no es necesario mantenerlo presionado):
+	- haciendo scratch: al mover el JogWheel el Slider de pitch se va a 100%.  lo que permite hacer un break manual se se mueve hacia atras.  esto aun lo estoy probando.
+	- selección de efectos: presionando EFX.1-4 se seleccionan diferentes efectos.  para esto es necesario re-ordenar la lista de efectos de Traktor (ver Effects).
+	  (esto está basado en el hecho de que yo no uso más de 4 o 6 efectos)
+	nota: para entrar en este modo no hay ninguna indicación visual (otra cosa en la que estoy trabajando)
+- botón Record, comienza/para grabación
+- SHIFT + JogWheel, busca rápidamente por la lista de temas.
